@@ -1,8 +1,8 @@
 # endless chase
  
-Input: Queen's residence number 
+Input: Queen's place number 
 
-Output: The path of the knight being chased by the queen (in a way that he can never hit the knight), this path is arranged in pairs (the queen's place of residence is the place of establishment, such as (A1, B3), (D1, C5), ... Must be printed on output.
+Output: The path of the knight being chased by the queen (in a way that he can never hit the knight), this path is arranged in pairs Must be printed on output.
 
 Description:
 1. The chessboard is an 8.8 array
